@@ -22,6 +22,6 @@
   "homepage": "https://github.com/anglinb/glitch-cd-example-app#readme",
   "dependencies": {
     "express": "^4.16.2",
-    "glitch-cd": "https://github.com/anglinb/glitch-cd.git#aa22dbdf485a1aa1ff236b3f685d22a481fafa3b"
+    "glitch-cd": "https://github.com/anglinb/glitch-cd.git#1fc27a6f93f0f40b1279f287850a752babc400a0"
   }
 }
