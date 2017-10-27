@@ -4,6 +4,7 @@
   "description": "This is a simple little app to show automatic deployments in action",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -14,6 +15,9 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/anglinb/glitch-cd-example-app/issues"
+  },
+  "engines": {
+    "node": "8.x"
   },
   "homepage": "https://github.com/anglinb/glitch-cd-example-app#readme",
   "dependencies": {
