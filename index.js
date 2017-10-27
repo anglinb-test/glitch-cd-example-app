@@ -7,10 +7,10 @@ const app = express()
 var autodeploy = require('glitch-cd')
 app.use(autodeploy())
 
-let name = 'Brian Anglin'
+let name = ':wave: Brian Anglin'
 
 app.get('/', (req, res, next) => {
-  res.json({ status: 'ok', name: 'Brian' })
+  res.json({ status: 'ok', name })
 })
 
 
