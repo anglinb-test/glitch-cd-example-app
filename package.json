@@ -1,0 +1,22 @@
+{
+  "name": "glitch-cd-example-app",
+  "version": "1.0.0",
+  "description": "This is a simple little app to show automatic deployments in action",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/anglinb/glitch-cd-example-app.git"
+  },
+  "author": "Brian Anglin <banglin@usc.edu>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anglinb/glitch-cd-example-app/issues"
+  },
+  "homepage": "https://github.com/anglinb/glitch-cd-example-app#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
